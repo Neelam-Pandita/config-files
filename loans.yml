@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to ebank related to loans APIs"
+  contactDetails:
+    name: "Salman Grega - Developer"
+    email: "salman@eazybank.com"
+  onCallSupport:
+    - "(452) 456-2176"
+    - "(546) 764-8934"
+
+

@@ -1,0 +1,14 @@
+build:
+  version: "3.0"
+
+accounts:
+    message: "welcome to ebank account related APIs"
+    contactDetails:
+      name: "John Doe-Developer"
+      email: "neel@gmail.com"
+    onCallSupport:
+      - "(666)555-1234"
+      - "(666)523-1346"
+
+
+

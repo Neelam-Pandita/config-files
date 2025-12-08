@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to ebank account related to qa APIs"
+  contactDetails:
+    name: "Samy Ray-QA Lead"
+    email: "sammy@ebank.com"
+  onCallSupport:
+    - "(555)555-1234"
+    - "(555)526-1756"

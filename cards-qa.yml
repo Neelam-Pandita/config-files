@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "welcome to ebank cards related to qa localAPIs"
+  contactDetails:
+    name: "Christine Greg- QA-Lead"
+    email: "chrisi@ebank.com"
+  onCallSupport:
+    - "(332) 419-2421"
+    - "(365) 382-5412"
