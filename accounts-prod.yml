@@ -5,7 +5,7 @@ accounts:
   message: "welcome to ebank account related to prod  APIs"
   contactDetails:
     name: "Mohan Lal-product Owner"
-    email: "mohan@ebank.com"
+    email: "{cipher}7b5b3705c8d83f00da6d6776b9f8b7bb1866cbc7fdd741ce1cb204c6d6cb273a"
   onCallSupport:
     - "(777)755-1211"
     - "(777)523-1315"
