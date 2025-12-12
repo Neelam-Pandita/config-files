@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "welcome to ebank cards related localAPIs"
+  message: "welcome to ebank cards related docker APIs"
   contactDetails:
     name: "Dilli De- Developer"
     email: "dilli@ebank.com"
