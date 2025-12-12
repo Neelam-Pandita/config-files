@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to ebank related to loans APIs"
+  message: "Welcome to ebank related to loans docker APIs"
   contactDetails:
     name: "Salman Grega - Developer"
     email: "salman@eazybank.com"
