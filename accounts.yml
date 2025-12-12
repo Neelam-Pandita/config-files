@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-    message: "welcome to ebank account related APIs"
+    message: "welcome to ebank account related docker APIs"
     contactDetails:
       name: "John Doe-Developer"
       email: "neel@gmail.com"
